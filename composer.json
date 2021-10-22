@@ -1,0 +1,20 @@
+{
+    "name": "david/tp-tests-unitarios",
+    "description": "trabajo practico",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "david",
+            "email": "figuererodavid@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
